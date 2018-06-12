@@ -1,0 +1,25 @@
+From 07225e9ce91e0074b76632ff8475e63f27b60617 Mon Sep 17 00:00:00 2001
+From: Miguel Bernal Marin <miguel.bernal.marin@linux.intel.com>
+Date: Mon, 11 Jun 2018 13:53:23 -0500
+Subject: [PATCH] fix read utf8 file
+
+---
+ setup.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/setup.py b/setup.py
+index 558fa7c..52ae548 100644
+--- a/setup.py
++++ b/setup.py
+@@ -7,7 +7,7 @@ setuptools.setup(
+     version="6.0.1",
+     description="A flexible Python Kconfig parser",
+     long_description=
+-        open(os.path.join(os.path.dirname(__file__), "README.rst")).read(),
++        open(os.path.join(os.path.dirname(__file__), "README.rst"),'r',-1,'utf-8').read(),
+     url="https://github.com/ulfalizer/Kconfiglib",
+     author='Ulf "Ulfalizer" Magnusson',
+     author_email="ulfalizer@gmail.com",
+-- 
+2.17.1
+
