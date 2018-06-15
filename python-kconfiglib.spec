@@ -15,7 +15,7 @@ Requires: python-kconfiglib-python3
 Requires: python-kconfiglib-python
 BuildRequires : pbr
 BuildRequires : pip
-BuildRequires : python-dev
+
 BuildRequires : python3-dev
 BuildRequires : setuptools
 Patch1: 0001-fix-read-utf8-file.patch
