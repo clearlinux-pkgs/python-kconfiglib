@@ -1,5 +1,5 @@
 PKG_NAME := python-kconfiglib
-URL = https://github.com/ulfalizer/Kconfiglib/archive/v10.12.0.tar.gz
+URL = https://github.com/ulfalizer/Kconfiglib/archive/v10.13.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
