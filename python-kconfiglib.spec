@@ -4,7 +4,7 @@
 #
 Name     : python-kconfiglib
 Version  : 10.48.0
-Release  : 65
+Release  : 66
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v10.48.0/Kconfiglib-10.48.0.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v10.48.0/Kconfiglib-10.48.0.tar.gz
 Summary  : No detailed summary available
