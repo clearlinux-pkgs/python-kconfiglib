@@ -4,7 +4,7 @@
 #
 Name     : python-kconfiglib
 Version  : 12.12.1
-Release  : 90
+Release  : 91
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v12.12.1/Kconfiglib-12.12.1.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v12.12.1/Kconfiglib-12.12.1.tar.gz
 Summary  : No detailed summary available
