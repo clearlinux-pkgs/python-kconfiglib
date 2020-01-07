@@ -4,7 +4,7 @@
 #
 Name     : python-kconfiglib
 Version  : 13.7.0
-Release  : 105
+Release  : 106
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v13.7.0/Kconfiglib-13.7.0.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v13.7.0/Kconfiglib-13.7.0.tar.gz
 Summary  : No detailed summary available
