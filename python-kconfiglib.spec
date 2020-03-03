@@ -4,7 +4,7 @@
 #
 Name     : python-kconfiglib
 Version  : 14.1.0
-Release  : 109
+Release  : 110
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Summary  : No detailed summary available
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1580493044
+export SOURCE_DATE_EPOCH=1583212576
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
