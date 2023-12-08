@@ -7,7 +7,7 @@
 #
 Name     : python-kconfiglib
 Version  : 14.1.0
-Release  : 126
+Release  : 127
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Summary  : No detailed summary available
@@ -60,6 +60,7 @@ python components for the python-kconfiglib package.
 Summary: python3 components for the python-kconfiglib package.
 Group: Default
 Requires: python3-core
+Provides: pypi(kconfiglib)
 
 %description python3
 python3 components for the python-kconfiglib package.
