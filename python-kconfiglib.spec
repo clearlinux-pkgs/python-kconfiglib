@@ -7,7 +7,7 @@
 #
 Name     : python-kconfiglib
 Version  : 14.1.0
-Release  : 127
+Release  : 128
 URL      : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Source0  : https://github.com/ulfalizer/Kconfiglib/archive/v14.1.0/Kconfiglib-14.1.0.tar.gz
 Summary  : No detailed summary available
